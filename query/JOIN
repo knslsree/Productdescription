@@ -1,0 +1,2 @@
+SELECT * FROM Stores s
+ JOIN Inventory i ON s.Stores_id=i.Product_id

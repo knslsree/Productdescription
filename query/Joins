@@ -1,0 +1,2 @@
+SELECT * FROM Product 
+ JOIN Stores ON Product.Product_id=Stores.Stores_id
